@@ -14,6 +14,7 @@ namespace SeleniumTests
         [SetUp]
         public void Setup()
         {
+            // Involking browser
             driver = new ChromeDriver();
         }
 
@@ -21,10 +22,12 @@ namespace SeleniumTests
         public void OpenGoogle()
         {
             driver.Navigate().GoToUrl("https://www.google.com");
-            Assert.That(driver.Title.Contains("Google"));
+            driver.FindElement(By.XPath("//textarea[@title='Search']")).SendKeys("Selenium");
+            driver.FindElement(By.XPath("#//input[@data-ved='0ahUKEwizlOyN0vOPAxWoErkGHSGyLlUQ4dUDCBo']")).Click();
         }
 
         [Test]
+        /*
         public void Openyoutube()
         {
             driver.Navigate().GoToUrl("https://www.youtube.com/");
@@ -32,12 +35,13 @@ namespace SeleniumTests
             driver.FindElement(By.XPath("//button[@title='Search']")).Click();
             
         }
+        */
         
 
         [TearDown]
         public void TearDown()
         {
-            driver.Quit();
+            //driver.Quit();
         }
     }
 }

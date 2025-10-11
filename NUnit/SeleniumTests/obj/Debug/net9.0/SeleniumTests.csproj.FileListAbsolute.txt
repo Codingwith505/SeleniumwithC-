@@ -102,3 +102,4 @@ C:\SeleniumAutomationC#\NUnit\SeleniumTests\obj\Debug\net9.0\refint\SeleniumTest
 C:\SeleniumAutomationC#\NUnit\SeleniumTests\obj\Debug\net9.0\SeleniumTests.pdb
 C:\SeleniumAutomationC#\NUnit\SeleniumTests\obj\Debug\net9.0\SeleniumTests.genruntimeconfig.cache
 C:\SeleniumAutomationC#\NUnit\SeleniumTests\obj\Debug\net9.0\ref\SeleniumTests.dll
+C:\SeleniumAutomationC#\NUnit\SeleniumTests\obj\Debug\net9.0\SeleniumTests.sourcelink.json

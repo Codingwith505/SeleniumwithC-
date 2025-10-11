@@ -1,0 +1,15 @@
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\Testproject\bin\Debug\net9.0\Testproject.exe
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\Testproject\bin\Debug\net9.0\Testproject.deps.json
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\Testproject\bin\Debug\net9.0\Testproject.runtimeconfig.json
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\Testproject\bin\Debug\net9.0\Testproject.dll
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\Testproject\bin\Debug\net9.0\Testproject.pdb
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\Testproject\obj\Debug\net9.0\Testproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\Testproject\obj\Debug\net9.0\Testproject.AssemblyInfoInputs.cache
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\Testproject\obj\Debug\net9.0\Testproject.AssemblyInfo.cs
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\Testproject\obj\Debug\net9.0\Testproject.csproj.CoreCompileInputs.cache
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\Testproject\obj\Debug\net9.0\Testproject.sourcelink.json
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\Testproject\obj\Debug\net9.0\Testproject.dll
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\Testproject\obj\Debug\net9.0\refint\Testproject.dll
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\Testproject\obj\Debug\net9.0\Testproject.pdb
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\Testproject\obj\Debug\net9.0\Testproject.genruntimeconfig.cache
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\Testproject\obj\Debug\net9.0\ref\Testproject.dll

@@ -1,0 +1,15 @@
+C:\SeleniumAutomationC#\C#Problems\OddandEvenNumber\obj\Debug\net9.0\OddandEvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\SeleniumAutomationC#\C#Problems\OddandEvenNumber\obj\Debug\net9.0\OddandEvenNumber.AssemblyInfoInputs.cache
+C:\SeleniumAutomationC#\C#Problems\OddandEvenNumber\obj\Debug\net9.0\OddandEvenNumber.AssemblyInfo.cs
+C:\SeleniumAutomationC#\C#Problems\OddandEvenNumber\obj\Debug\net9.0\OddandEvenNumber.csproj.CoreCompileInputs.cache
+C:\SeleniumAutomationC#\C#Problems\OddandEvenNumber\obj\Debug\net9.0\OddandEvenNumber.sourcelink.json
+C:\SeleniumAutomationC#\C#Problems\OddandEvenNumber\bin\Debug\net9.0\OddandEvenNumber.exe
+C:\SeleniumAutomationC#\C#Problems\OddandEvenNumber\bin\Debug\net9.0\OddandEvenNumber.deps.json
+C:\SeleniumAutomationC#\C#Problems\OddandEvenNumber\bin\Debug\net9.0\OddandEvenNumber.runtimeconfig.json
+C:\SeleniumAutomationC#\C#Problems\OddandEvenNumber\bin\Debug\net9.0\OddandEvenNumber.dll
+C:\SeleniumAutomationC#\C#Problems\OddandEvenNumber\bin\Debug\net9.0\OddandEvenNumber.pdb
+C:\SeleniumAutomationC#\C#Problems\OddandEvenNumber\obj\Debug\net9.0\OddandEvenNumber.dll
+C:\SeleniumAutomationC#\C#Problems\OddandEvenNumber\obj\Debug\net9.0\refint\OddandEvenNumber.dll
+C:\SeleniumAutomationC#\C#Problems\OddandEvenNumber\obj\Debug\net9.0\OddandEvenNumber.pdb
+C:\SeleniumAutomationC#\C#Problems\OddandEvenNumber\obj\Debug\net9.0\OddandEvenNumber.genruntimeconfig.cache
+C:\SeleniumAutomationC#\C#Problems\OddandEvenNumber\obj\Debug\net9.0\ref\OddandEvenNumber.dll
