@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OddandEvenNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38bbae9a598537dc1a18787c607139691436d6a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2fd7cd259174092e5d0adebe3584db516057221")]
 [assembly: System.Reflection.AssemblyProductAttribute("OddandEvenNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OddandEvenNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\ArrayForEach\bin\Debug\net9.0\ArrayForEach.exe
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\ArrayForEach\bin\Debug\net9.0\ArrayForEach.deps.json
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\ArrayForEach\bin\Debug\net9.0\ArrayForEach.runtimeconfig.json
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\ArrayForEach\bin\Debug\net9.0\ArrayForEach.dll
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\ArrayForEach\bin\Debug\net9.0\ArrayForEach.pdb
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\ArrayForEach\obj\Debug\net9.0\ArrayForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\ArrayForEach\obj\Debug\net9.0\ArrayForEach.AssemblyInfoInputs.cache
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\ArrayForEach\obj\Debug\net9.0\ArrayForEach.AssemblyInfo.cs
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\ArrayForEach\obj\Debug\net9.0\ArrayForEach.csproj.CoreCompileInputs.cache
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\ArrayForEach\obj\Debug\net9.0\ArrayForEach.sourcelink.json
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\ArrayForEach\obj\Debug\net9.0\ArrayForEach.dll
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\ArrayForEach\obj\Debug\net9.0\refint\ArrayForEach.dll
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\ArrayForEach\obj\Debug\net9.0\ArrayForEach.pdb
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\ArrayForEach\obj\Debug\net9.0\ArrayForEach.genruntimeconfig.cache
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\ArrayForEach\obj\Debug\net9.0\ref\ArrayForEach.dll

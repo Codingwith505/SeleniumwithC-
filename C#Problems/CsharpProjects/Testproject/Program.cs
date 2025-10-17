@@ -1,16 +1,17 @@
 ﻿
 
-// int firstValue = 500;
-// int secondValue = 600;
-// int largerValue = Math.Max(firstValue, secondValue);
+int firstValue = 500;
+int secondValue = 600;
+int largerValue = Math.Max(firstValue, secondValue);
 
-// Console.WriteLine(largerValue);
+Console.WriteLine(largerValue);
 
 
+/*****************************************************************/
 
 // Create decision logic with if statements
 
-/*Random dice = new Random();
+Random dice = new Random();
 
 int roll = dice.Next(1, 7);
 int roll1 = dice.Next(1, 7);
@@ -45,11 +46,13 @@ else
 }
 
 Console.WriteLine($"{roll}+{roll1}+{roll2} = {total}");
-*/
+
 
 // Improve renewal rate of subscriptions
 
-/*
+/*****************************************************************/
+
+
 Random day = new Random();
 int daysUntilExpiration = day.Next(12);
 int discountPercentage = 0;
@@ -83,7 +86,9 @@ if (discountPercentage>0)
 {
     Console.WriteLine($"Renew now and save {discountPercentage}%!");
 }
-*/
+
+
+/**************************************************************************************/
 
 //Report the Order IDs that need further investigation
 
@@ -98,6 +103,10 @@ foreach (String orderId in orderIds)
 }
 
 
+
+
+
+/**********************************************************************************************/
 
 
 string str = "The quick brown fox jumps over the lazy dog.";

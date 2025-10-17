@@ -1,0 +1,15 @@
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\DoWhile\bin\Debug\net9.0\DoWhile.exe
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\DoWhile\bin\Debug\net9.0\DoWhile.deps.json
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\DoWhile\bin\Debug\net9.0\DoWhile.runtimeconfig.json
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\DoWhile\bin\Debug\net9.0\DoWhile.dll
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\DoWhile\bin\Debug\net9.0\DoWhile.pdb
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\DoWhile\obj\Debug\net9.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\DoWhile\obj\Debug\net9.0\DoWhile.AssemblyInfoInputs.cache
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\DoWhile\obj\Debug\net9.0\DoWhile.AssemblyInfo.cs
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\DoWhile\obj\Debug\net9.0\DoWhile.csproj.CoreCompileInputs.cache
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\DoWhile\obj\Debug\net9.0\DoWhile.sourcelink.json
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\DoWhile\obj\Debug\net9.0\DoWhile.dll
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\DoWhile\obj\Debug\net9.0\refint\DoWhile.dll
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\DoWhile\obj\Debug\net9.0\DoWhile.pdb
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\DoWhile\obj\Debug\net9.0\DoWhile.genruntimeconfig.cache
+C:\SeleniumAutomationC#\C#Problems\CsharpProjects\DoWhile\obj\Debug\net9.0\ref\DoWhile.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HQcmFFEYP2c=",
+  "dgSpecHash": "LPca9J6Q4ZE=",
   "success": true,
   "projectFilePath": "C:\\SeleniumAutomationC#\\NUnit\\SeleniumTests\\SeleniumTests.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,7 @@
     "C:\\Users\\v-susmaurya\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
     "C:\\Users\\v-susmaurya\\.nuget\\packages\\selenium.support\\4.35.0\\selenium.support.4.35.0.nupkg.sha512",
     "C:\\Users\\v-susmaurya\\.nuget\\packages\\selenium.webdriver\\4.35.0\\selenium.webdriver.4.35.0.nupkg.sha512",
-    "C:\\Users\\v-susmaurya\\.nuget\\packages\\selenium.webdriver.chromedriver\\140.0.7339.20700\\selenium.webdriver.chromedriver.140.0.7339.20700.nupkg.sha512",
+    "C:\\Users\\v-susmaurya\\.nuget\\packages\\selenium.webdriver.chromedriver\\141.0.7390.7800\\selenium.webdriver.chromedriver.141.0.7390.7800.nupkg.sha512",
     "C:\\Users\\v-susmaurya\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
