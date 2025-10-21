@@ -1,16 +1,19 @@
 ﻿
 
+
 for (int i = 1; i <= 100; i++)
 {
     if ((i % 3 == 0) && (i % 5 == 0))
     {
         Console.WriteLine($"{i} - FizzBuzz");
+        
+
     }
-    else if (i % 3 == 0)
+    else if (i % 5 == 0)
     {
         Console.WriteLine($"{i} - Fizz");
     }
-    else if (i % 5 == 0)
+    else if (i % 12 == 0)
     {
         Console.WriteLine($"{i} - Buzz");
     }
@@ -20,8 +23,9 @@ for (int i = 1; i <= 100; i++)
     }
 
 
-    
 }
+
+
 
 // String[] names = ["Alex", "Eddie", "David", "Michael"];
 
@@ -31,4 +35,10 @@ for (int i = 1; i <= 100; i++)
 //     if (names[i] == "Eddie")
 //         names[i] = "Emmy";
 //         Console.WriteLine(names[i]);
+// }
+
+
+// for (int i = 0; i<100; i+=13)
+// {
+//     Console.WriteLine(i);
 // }
