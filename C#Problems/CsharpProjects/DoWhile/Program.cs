@@ -1,15 +1,15 @@
 ﻿Random random = new Random();
 
-// int current = 0;
+int current = 0;
 
-// do
-// {
-//     current = random.Next(1, 11);
-//     Console.WriteLine(current);
-// } while (current != 7);
+do
+{
+    current = random.Next(1, 11);
+    Console.WriteLine(current);
+} while (current != 7);
 
 
-/*
+
 int monsterHealth = 50;
 int heroHealth = 50;
 
@@ -27,11 +27,11 @@ do
 } while (heroHealth > 0 && monsterHealth > 0);
 Console.WriteLine(heroHealth>monsterHealth? "Hero wins!":"Monster wins!");
 
-*/
+
 
 // how to take input from user and put some condition 
 
-/*
+
 String? readResult;
 bool validString = false;
 Console.WriteLine("Enter a string at least 3 character");
@@ -52,7 +52,10 @@ do
 } while (validString == false);
 Console.WriteLine($"your input is: {readResult}.");
 
-*/
+
+
+
+
 //write code that validates integer input
 
 int numericValue = 0;
@@ -89,5 +92,47 @@ do
 
 
 
+
+// write code that validates string input
+
+String? stringInput;
+bool validStringValue = false;
+
+Console.WriteLine("Enter your role name (Administrator, Manager, or User)");
+
+
+while (validStringValue == false)
+{
+    stringInput = Console.ReadLine();
+    if (stringInput != null)
+    {
+        String roleName = stringInput.ToLower().Trim();
+        if (roleName == "administrator")
+        {
+            Console.WriteLine("Your input value (Administrator) has been accepted.");
+            validStringValue = true;
+        }
+        else if (roleName == "manager")
+        {
+            Console.WriteLine("Your input value (Manager) has been accepted.");
+            validStringValue = true;
+        }
+        else if (roleName == "user")
+        {
+            Console.WriteLine("Your input value (User) has been accepted.");
+            validStringValue = true;
+        }
+        else
+        {
+            Console.WriteLine($"The role name that you entered, \"{stringInput}\" is not valid. Enter your role name (Administrator, Manager, or User)");
+            validStringValue = false;
+        }
+    }
+} 
+
+
+
+
+string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
 
 
